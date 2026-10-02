@@ -19,8 +19,6 @@ Modern gaming setups often require running 4 to 7 separate background applicatio
 
 BUG AIO consolidates all peripheral control, studio audio DSP routing, per-application audio mixing, game-aware profile automation, low-overhead hardware telemetry, and operating system latency optimizations into a **single, standalone 270 KB native executable with zero external runtime dependencies and 0% idle CPU overhead**.
 
-![BUG AIO Interface](bug_aio_ui.png)
-
 ---
 
 ## Core Architectural Principles
